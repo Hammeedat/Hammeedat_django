@@ -1,0 +1,1 @@
+VEN = "This is my first django"
